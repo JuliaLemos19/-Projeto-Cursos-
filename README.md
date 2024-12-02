@@ -7,8 +7,8 @@ Utilize o diagrama de classes abaixo para implementar a solução:
 ----------------------------------------
 Aluno
 ----------------------------------------
-id: int
-nome: string
+<br>id: int<br>
+<br>nome: string<br>
 ----------------------------------------
 + podeMatricular(Cursos cursos): bool
 ----------------------------------------
@@ -27,9 +27,9 @@ Disciplina
 ----------------------------------------------------------
 Curso
 ----------------------------------------------------------
-id: int
-descricao: string
-disciplinas: disciplina[12]
+<br>id: int<br>
+<br>descricao: string<br>
+<br>disciplinas: disciplina[12] <br>
 ----------------------------------------------------------
 + adicionarDisciplina(Disciplina disciplina): bool
 + pesquisarDisciplina(Disciplina disciplina): Disciplina
@@ -39,7 +39,7 @@ disciplinas: disciplina[12]
 ------------------------------------
 Escola
 ------------------------------------
-cursos: Curso[5]
+<br>cursos: Curso[5]<br>
 ------------------------------------
 + adicionarCurso(Curso curso): bool
 + pesquisarCurso(Curso curso): Curso
