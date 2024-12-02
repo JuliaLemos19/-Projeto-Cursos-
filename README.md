@@ -1,7 +1,7 @@
 <b>Uma escola oferece 5 cursos de tecnologia, cada um contendo 12 disciplinas.</b>
 
-#Os alunos se inscrevem para as disciplinas, que podem ter, no máximo, 15 alunos inscritos.
-Cada aluno só pode estar matriculado em um único curso e estar inscrito simultaneamente em, no máximo 6 disciplinas.
+<b>Os alunos se inscrevem para as disciplinas, que podem ter, no máximo, 15 alunos inscritos.
+Cada aluno só pode estar matriculado em um único curso e estar inscrito simultaneamente em, no máximo 6 disciplinas.</b>
 
 Utilize o diagrama de classes abaixo para implementar a solução:
 ----------------------------------------
